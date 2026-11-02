@@ -1,5 +1,5 @@
 ---
-name: mattpocock-engineering-skills
+name: mattpocock-gemini-skills-download-gemini-package
 description: Complete Gemini-compatible engineering and productivity workflows adapted from the trusted mattpocock/skills repository. Use for requirements clarification, planning, domain modeling, research, prototyping, implementation, testing, debugging, code review, Git workflows, documentation, learning, triage, retrospectives, and writing.
 ---
 
